@@ -1,0 +1,56 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding-top: 3.5rem;
+    font-family: 'Roboto', sans-serif;
+    background-color:#FFDDAA;
+}
+
+#links{
+    padding-top: 2.5rem;
+}
+
+#links div.row > div{
+    padding-top: 2em;
+}
+
+.jumbotron{
+    background-image: url('../img/fundo.jpeg');
+    background-size: 100vw auto;
+    background-repeat: no-repeat;
+    background-position-y: -50em;
+    color:azure;
+    border-radius: 0;
+    font-family: 'Special Elite', cursive;
+}
+
+
+@media(max-width:1500px){
+    .jumbotron{
+        background-position-y: -30em;
+    }
+}
+
+@media(max-width:870px){
+    .jumbotron{
+        background-position-y: -10em;
+    }
+}
+
+@media(max-width:375px){
+    .jumbotron h1 {
+        font-size : 3em;
+    }
+    .jumbotron h2 {
+        font-size : 1em;
+    }
+    
+    .jumbotron{
+        background-position-y: -5em;
+        background-size: 115vw auto;
+    }
+    
+}
