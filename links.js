@@ -1,234 +1,251 @@
 var LINKS = [
-    {
-      "titulo": "NRBH",
-      "subtitulo": "Lista de Planilhas e Formulários",
-      "itens":[
-        {
-          "titulo":"PAIPJ-IN",
-          "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
-        },
-        {
-          "titulo":"Registro de Ações",
-          "url":"https://docs.google.com/spreadsheets/d/1ruqv3khE5tZjPZPa90XsRe7dGNDtNE7-xhIcgR-PXFA/edit#gid=0"
-        },
-
-
-        {
-          "titulo": "Desligamento",
-          "itens": [
-            {
-              "titulo": "Formulário",
-              "url":"https://docs.google.com/forms/d/e/1FAIpQLSey9HplzgVYg5QC5Fa02fwhWIY9MkWKdr9sHKVXkRuewVseuQ/viewform?usp=sf_link"
-            },
-            {
-              "titulo": "Planilha",
-              "url": "https://docs.google.com/spreadsheets/d/1hP4iQ4l3S21m6ruVUqh9EPG5BPuMA3h6ppJNFN_XVKs/edit#gid=1093202006"
-            }
-          ]
-        }
-
-        ,
-
-        {
-          "titulo": "Atividades",
-          "itens": [
-            {
-              "titulo": "Formulário",
-              "url":"https://docs.google.com/forms/d/e/1FAIpQLSfL3H28eeOr4w9r2_DHRidNSiB8BH9KHK1mdnY7_5zbkf9afw/viewform?usp=sf_link"
-            },
-            {
-              "titulo": "Planilha",
-              "url": "https://docs.google.com/spreadsheets/d/1Hwv7pYhjQCi_MyOhTo0lOn6xzjZ74ZoEYmqNdpPGHs4/edit#gid=376414457"
-            }
-          ]
-        }
-
+  {
+    "titulo": "NRBH",
+    "subtitulo": "Lista de Planilhas e Formulários",
+    "itens":[
+      {
+        "titulo":"PAIPJ-IN",
+        "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
+      },
+      {
+        "titulo":"Registro de Ações",
+        "itens":[
+          {
+            "titulo":"Formulário",
+          },
+          {
+            "titulo":"Planilha",
+            "url":"https://docs.google.com/spreadsheets/d/1ruqv3khE5tZjPZPa90XsRe7dGNDtNE7-xhIcgR-PXFA/edit#gid=0"
+          }
+        ]
         
-      ]
-    },
-    {
-      "titulo": "NS",
-      "subtitulo": "Lista de Planilhas e Formulários",
-      "itens":[
-        {
-          "titulo":"Monitoramento Equipes",
-          "url":"https://docs.google.com/spreadsheets/d/1-0GLHgwBF7u3do6mvPCFNHRJ1842guvFtJyvW4LHJCk/edit#gid=1755192778"
-        },
-        {
-          "titulo":"Registro de Ações - NS",
-          "url":"https://docs.google.com/spreadsheets/d/1R47qI1CmEaUK2hp-SABQ5K_65VhcUQIkO9ifejUyvCs/edit#gid=1686231361"
-        },
-        {
-          "titulo":"Registro de Ações - Núcleos Regionais",
-          "itens":[
-            {
-              "titulo":"NR Barbacena",
-              "url":"https://docs.google.com/spreadsheets/d/1S-cvtyMeGjOgfVde4erKu8aFJ1dCbDuR8mN74YnV5Jc/edit#gid=0"
-            },
-            {
-              "titulo":"NR Alfenas",
-              "url":"https://docs.google.com/spreadsheets/d/1iQXd2uGxTyipHQJof92NK06K53mLdAzQcfqiWjIeUuI/edit#gid=0"
-            },
-            {
-              "titulo":"NR Governador Valadares",
-              "url":"https://docs.google.com/spreadsheets/d/1UKMvRb6CLiB9FJYLdjYvxw5k5Sa34B3GGr1wR7LjHrs/edit#gid=0"
-            },
-            {
-              "titulo":"NR Itaúna",
-              "url":"https://docs.google.com/spreadsheets/d/1H6HmNpP_KrmIivQfoHk1cIwAWiDFY_ONvVDrgDGTjXc/edit#gid=0"
-            },
-            {
-              "titulo":"NR Teófilo Otôni",
-              "url":"https://docs.google.com/spreadsheets/d/12bP5QUgXwYMxUyWti4Mp1Ln4SxTM6nUwypPRglQYPQs/edit#gid=0"
-            },
-            {
-              "titulo":"NR Juiz de Fora",
-              "url":"https://docs.google.com/spreadsheets/d/1rAU2iVKrlxhiQCm0eDMe-CX-azxctMTF0IvRiMffOZM/edit#gid=0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "Formação",
-      "subtitulo": "Lista de Planilhas e Formulários",
-      "itens":[
-        {
-          "titulo":"Revista Responsabilidades",
-          "url":"https://bd.tjmg.jus.br/jspui/handle/tjmg/577/browse?type=dateissued&submit_browse=Exibir+todos+os+itens"
-        },
-        {
-          "titulo":"Canal do Youtube",
-          "url":"https://www.youtube.com/channel/UC-MeM32WFAkA02hHhGfdBrQ/playlists"
-        },
-        {
-          "titulo":"Documentários",
-          "itens":[
-            {
-              "titulo":"PAI-PJ na Audiência de Custódia 2020",
-              "url":"https://youtu.be/pNsZAToICAU"
-            },
-            {
-              "titulo":"Justiça em Questão - 2018",
-              "url":"https://youtu.be/aAFgMQrfrp8"
-            },
-            {
-              "titulo":"Programa Inclusão - Crime e Castigo - Louco Infrator",
-              "url":"https://www.youtube.com/watch?v=TARtii1-H4c&feature=em-share_video_user"
-            },
-            {
-              "titulo":"A cidadania do louco infrator - 2009",
-              "url":"https://youtu.be/WNbUTHr0kHQ"
-            }
-          ]
-        },
-        {
-          "titulo":"Primeira Jornada Clinica PAI-PJ",
-          "itens":[
-            {
-              "titulo":"Parte 1",
-              "url":"https://www.youtube.com/watch?v=Q2fgS-S2sH8&feature=youtu.be"
-            },
-            {
-              "titulo":"Parte 2",
-              "url":"https://www.youtube.com/watch?v=Qe0uAMwyWq4&feature=youtu.be"
-            }
-          ]
-        },
-        {
-          "titulo":"Seminário de Ensino - Transferência na neurose e na psicose - 01/08/2017",
-          "url": "https://youtu.be/3NrUZePDHX0"
-        },
-        {
-          "titulo":"Seminário de Ensino - Valois - 13/12/2018",
-          "itens": [
-            {
-              "titulo":"Parte 1",
-              "url":"https://youtu.be/_QzpSmbSe_E"
-            },
-            {
-              "titulo":"Parte 2",
-              "url":"https://youtu.be/g6r8lTXV71Y"
-            }
-          ]
-        },
-        {
-          "titulo":"Seminário de Ensino - 14/12/2018",
-          "itens": [
-            {
-              "titulo":"Marcus André - manhã - parte I",
-              "url":"https://youtu.be/AtSXgSDVkMY"
-            },
-            {
-              "titulo":"Marcus André e Ana Lúcia - manhã - parte II",
-              "url":"https://youtu.be/8mCvrTn_B2A"
-            },
-            {
-              "titulo":"Marcus André e Ana Lúcia - manhã - parte II",
-              "url":"https://youtu.be/8mCvrTn_B2A"
-            },
-            {
-              "titulo":"Marcus André e Ana Lúcia - manhã - parte III",
-              "url":"https://youtu.be/af8l9vD73xo"
-            },
-            {
-              "titulo":"Marcus André e Ana Lúcia - manhã - parte IV",
-              "url":"https://youtu.be/egeKd9DNZoQ"
-            },
-            {
-              "titulo":"Marcus André - tarde - parte I",
-              "url":"https://youtu.be/OOyLJMTJeKI"
-            },
-            {
-             "titulo":"Marcus André - tarde - parte II",
-              "url":"https://youtu.be/bV1BUAyfNII"
-            },
-            {
-              "titulo":"Marcus André - tarde - parte III",
-              "url":"https://youtu.be/lxeSF_gWies"
-            }
-          ]
-        }
-  
+      },
 
-      ]
-    },
-    {
-      "titulo": "Coordenação",
-      "subtitulo": "Lista de Planilhas e Formulários",
-      "itens": [
-        {
-          "titulo": "PAIPJ-IN - Análise",
-          "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
-        },
-        {
-          "titulo": "Porta de Entrada - Geral",
-          "url":"https://docs.google.com/spreadsheets/d/1Ieh33djG8OpzuAo7JVf-wEj1OLSP30LHQ9uh9z_SApE/edit#gid=1591668588"
-        },
-        {
-          "titulo": "Revista Responsabilidades - Dados",
-          "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
-        }
-                  
-      ]
-    },
-    {
-      "titulo": "Administrativo",
-      "subtitulo": "Lista de Planilhas e Formulários",
-      "itens": [
-        {
-          "titulo": "Equipe",
-          "url":"https://docs.google.com/spreadsheets/d/1XirUfP0PL3VoXr221zAolv-hwxhPfseVzcMrQ4o9Ulc/edit#gid=2128006005"
-        },
-        {
-          "titulo": "Recebimento de Documentos/Ações em Teletrabalho",
-          "url":"https://docs.google.com/spreadsheets/d/19Oi5ntg5OSchBSayHiaqnrsX0HckG9YDQWHqw9Elpxc/edit#gid=487006680"
-        }
-      ]
-    }
-  ];
+
+      {
+        "titulo": "Desligamento",
+        "itens": [
+          {
+            "titulo": "Formulário",
+            "url":"https://docs.google.com/forms/d/e/1FAIpQLSey9HplzgVYg5QC5Fa02fwhWIY9MkWKdr9sHKVXkRuewVseuQ/viewform?usp=sf_link"
+          },
+          {
+            "titulo": "Planilha",
+            "url": "https://docs.google.com/spreadsheets/d/1hP4iQ4l3S21m6ruVUqh9EPG5BPuMA3h6ppJNFN_XVKs/edit#gid=1093202006"
+          }
+        ]
+      }
+
+      ,
+
+      {
+        "titulo": "Atividades",
+        "itens": [
+          {
+            "titulo": "Formulário",
+            "url":"https://docs.google.com/forms/d/e/1FAIpQLSfL3H28eeOr4w9r2_DHRidNSiB8BH9KHK1mdnY7_5zbkf9afw/viewform?usp=sf_link"
+          },
+          {
+            "titulo": "Planilha",
+            "url": "https://docs.google.com/spreadsheets/d/1Hwv7pYhjQCi_MyOhTo0lOn6xzjZ74ZoEYmqNdpPGHs4/edit#gid=376414457"
+          }
+        ]
+      }
+
+      
+    ]
+  },
+  {
+    "titulo": "NS",
+    "subtitulo": "Lista de Planilhas e Formulários",
+    "itens":[
+      {
+        "titulo":"Monitoramento Equipes",
+        "url":"https://docs.google.com/spreadsheets/d/1-0GLHgwBF7u3do6mvPCFNHRJ1842guvFtJyvW4LHJCk/edit#gid=1755192778"
+      },
+      {
+        "titulo":"Registro de Ações - NS",
+        "url":"https://docs.google.com/spreadsheets/d/1R47qI1CmEaUK2hp-SABQ5K_65VhcUQIkO9ifejUyvCs/edit#gid=1686231361"
+      },
+      {
+        "titulo":"Registro de Ações - Núcleos Regionais",
+        "itens":[
+          {
+            "titulo":"NR Barbacena",
+            "url":"https://docs.google.com/spreadsheets/d/1S-cvtyMeGjOgfVde4erKu8aFJ1dCbDuR8mN74YnV5Jc/edit#gid=0"
+          },
+          {
+            "titulo":"NR Alfenas",
+            "url":"https://docs.google.com/spreadsheets/d/1iQXd2uGxTyipHQJof92NK06K53mLdAzQcfqiWjIeUuI/edit#gid=0"
+          },
+          {
+            "titulo":"NR Governador Valadares",
+            "url":"https://docs.google.com/spreadsheets/d/1UKMvRb6CLiB9FJYLdjYvxw5k5Sa34B3GGr1wR7LjHrs/edit#gid=0"
+          },
+          {
+            "titulo":"NR Itaúna",
+            "url":"https://docs.google.com/spreadsheets/d/1H6HmNpP_KrmIivQfoHk1cIwAWiDFY_ONvVDrgDGTjXc/edit#gid=0"
+          },
+          {
+            "titulo":"NR Teófilo Otôni",
+            "url":"https://docs.google.com/spreadsheets/d/12bP5QUgXwYMxUyWti4Mp1Ln4SxTM6nUwypPRglQYPQs/edit#gid=0"
+          },
+          {
+            "titulo":"NR Juiz de Fora",
+            "url":"https://docs.google.com/spreadsheets/d/1rAU2iVKrlxhiQCm0eDMe-CX-azxctMTF0IvRiMffOZM/edit#gid=0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Formação",
+    "subtitulo": "Lista de Planilhas e Formulários",
+    "itens":[
+      {
+        "titulo":"Revista Responsabilidades",
+        "url":"https://bd.tjmg.jus.br/jspui/handle/tjmg/577/browse?type=dateissued&submit_browse=Exibir+todos+os+itens"
+      },
+      {
+        "titulo":"Canal do Youtube",
+        "url":"https://www.youtube.com/channel/UC-MeM32WFAkA02hHhGfdBrQ/playlists",
+        "invisivel": true
+      },
+      {
+        "titulo":"Documentários",
+        "itens":[
+          {
+            "titulo":"PAI-PJ na Audiência de Custódia 2020",
+            "url":"https://youtu.be/pNsZAToICAU",
+            "invisivel": true
+          },
+          {
+            "titulo":"Justiça em Questão - 2018",
+            "url":"https://youtu.be/aAFgMQrfrp8"
+          },
+          {
+            "titulo":"Programa Inclusão - Crime e Castigo - Louco Infrator",
+            "url":"https://www.youtube.com/watch?v=TARtii1-H4c&feature=em-share_video_user",
+            "invisivel": true
+          },
+          {
+            "titulo":"A cidadania do louco infrator - 2009",
+            "url":"https://youtu.be/WNbUTHr0kHQ",
+            "invisivel": true
+          }
+        ]
+      },
+      {
+        "titulo":"Primeira Jornada Clinica PAI-PJ",
+        "invisivel": true,
+        "itens":[
+          {
+            "titulo":"Parte 1",
+            "url":"https://www.youtube.com/watch?v=Q2fgS-S2sH8&feature=youtu.be"
+          },
+          {
+            "titulo":"Parte 2",
+            "url":"https://www.youtube.com/watch?v=Qe0uAMwyWq4&feature=youtu.be"
+          }
+        ]
+      },
+      {
+        "titulo":"Seminário de Ensino - Transferência na neurose e na psicose - 01/08/2017",
+        "invisivel": true,
+        "url": "https://youtu.be/3NrUZePDHX0"
+      },
+      {
+        "titulo":"Seminário de Ensino - Valois - 13/12/2018",
+        "invisivel": true,
+        "itens": [
+          {
+            "titulo":"Parte 1",
+            "url":"https://youtu.be/_QzpSmbSe_E"
+          },
+          {
+            "titulo":"Parte 2",
+            "url":"https://youtu.be/g6r8lTXV71Y"
+          }
+        ]
+      },
+      {
+        "titulo":"Seminário de Ensino - 14/12/2018",
+        "invisivel": true,
+        "itens": [
+          {
+            "titulo":"Marcus André - manhã - parte I",
+            "url":"https://youtu.be/AtSXgSDVkMY"
+          },
+          {
+            "titulo":"Marcus André e Ana Lúcia - manhã - parte II",
+            "url":"https://youtu.be/8mCvrTn_B2A"
+          },
+          {
+            "titulo":"Marcus André e Ana Lúcia - manhã - parte II",
+            "url":"https://youtu.be/8mCvrTn_B2A"
+          },
+          {
+            "titulo":"Marcus André e Ana Lúcia - manhã - parte III",
+            "url":"https://youtu.be/af8l9vD73xo"
+          },
+          {
+            "titulo":"Marcus André e Ana Lúcia - manhã - parte IV",
+            "url":"https://youtu.be/egeKd9DNZoQ"
+          },
+          {
+            "titulo":"Marcus André - tarde - parte I",
+            "url":"https://youtu.be/OOyLJMTJeKI"
+          },
+          {
+           "titulo":"Marcus André - tarde - parte II",
+            "url":"https://youtu.be/bV1BUAyfNII"
+          },
+          {
+            "titulo":"Marcus André - tarde - parte III",
+            "url":"https://youtu.be/lxeSF_gWies"
+          }
+        ]
+      }
+
+
+    ]
+  },
+  {
+    "titulo": "Coordenação",
+    "subtitulo": "Lista de Planilhas e Formulários",
+    "itens": [
+      {
+        "titulo": "PAIPJ-IN - Análise",
+        "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
+      },
+      {
+        "titulo": "Porta de Entrada - Geral",
+        "url":"https://docs.google.com/spreadsheets/d/1Ieh33djG8OpzuAo7JVf-wEj1OLSP30LHQ9uh9z_SApE/edit#gid=1591668588"
+      },
+      {
+        "titulo": "Revista Responsabilidades - Dados",
+        "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
+      }
                 
+    ]
+  },
+  {
+    "titulo": "Administrativo",
+    "subtitulo": "Lista de Planilhas e Formulários",
+    "itens": [
+      {
+        "titulo": "Equipe",
+        "url":"https://docs.google.com/spreadsheets/d/1XirUfP0PL3VoXr221zAolv-hwxhPfseVzcMrQ4o9Ulc/edit#gid=2128006005"
+      },
+      {
+        "titulo": "Recebimento de Documentos/Ações em Teletrabalho",
+        "url":"https://docs.google.com/spreadsheets/d/19Oi5ntg5OSchBSayHiaqnrsX0HckG9YDQWHqw9Elpxc/edit#gid=487006680"
+      }
+    ]
+  }
+];
+              
 var ESTILOS_NIVEIS = [
-  ["list-group-item-dark","list-group-item-secondary"],
-  ["list-group-item-primary","list-group-item-info"]
+["list-group-item-dark","list-group-item-secondary"],
+["list-group-item-primary","list-group-item-info"]
 ];  
