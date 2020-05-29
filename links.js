@@ -1,7 +1,7 @@
 var LINKS = [
   {
     "titulo": "NRBH",
-    "subtitulo": "Lista de Planilhas e Formulários",
+    "subtitulo": "Planilhas e Formulários",
     "itens":[
       {
         "titulo":"PAIPJ-IN",
@@ -12,6 +12,7 @@ var LINKS = [
         "itens":[
           {
             "titulo":"Formulário",
+            "url":"https://docs.google.com/forms/d/e/1FAIpQLSdTJMtKWW9IkOChlK8Tg1lHYnTwQqcqfeNpKbw1UZX0NwbHIQ/viewform?usp=sf_link"
           },
           {
             "titulo":"Planilha",
@@ -100,7 +101,7 @@ var LINKS = [
   },
   {
     "titulo": "Formação",
-    "subtitulo": "Lista de Planilhas e Formulários",
+    "subtitulo": "Links e sites com conteúdo relevante",
     "itens":[
       {
         "titulo":"Revista Responsabilidades",
