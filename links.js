@@ -4,7 +4,7 @@ var LINKS = [
     "subtitulo": "Planilhas e Formulários",
     "itens":[
       {
-        "titulo":"PAIPJ-IN",
+        "titulo":"PAI-PJ - IN",
         "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
       },
       {
@@ -58,10 +58,10 @@ var LINKS = [
   },
   {
     "titulo": "NS",
-    "subtitulo": "Lista de Planilhas e Formulários",
+    "subtitulo": "Planilhas acessadas pelo Núcleo Supervisor",
     "itens":[
       {
-        "titulo":"Monitoramento Equipes",
+        "titulo":"Monitoramento de Equipes",
         "url":"https://docs.google.com/spreadsheets/d/1-0GLHgwBF7u3do6mvPCFNHRJ1842guvFtJyvW4LHJCk/edit#gid=1755192778"
       },
       {
@@ -117,8 +117,8 @@ var LINKS = [
         "itens":[
           {
             "titulo":"PAI-PJ na Audiência de Custódia 2020",
-            "url":"https://youtu.be/pNsZAToICAU",
-            "invisivel": true
+            "url":"https://youtu.be/pNsZAToICAU"
+            
           },
           {
             "titulo":"Justiça em Questão - 2018",
@@ -126,13 +126,13 @@ var LINKS = [
           },
           {
             "titulo":"Programa Inclusão - Crime e Castigo - Louco Infrator",
-            "url":"https://www.youtube.com/watch?v=TARtii1-H4c&feature=em-share_video_user",
-            "invisivel": true
+            "url":"https://www.youtube.com/watch?v=TARtii1-H4c&feature=em-share_video_user"
+            
           },
           {
             "titulo":"A cidadania do louco infrator - 2009",
-            "url":"https://youtu.be/WNbUTHr0kHQ",
-            "invisivel": true
+            "url":"https://youtu.be/WNbUTHr0kHQ"
+            
           }
         ]
       },
@@ -213,10 +213,10 @@ var LINKS = [
   },
   {
     "titulo": "Coordenação",
-    "subtitulo": "Lista de Planilhas e Formulários",
+    "subtitulo": "Lista de Planilhas",
     "itens": [
       {
-        "titulo": "PAIPJ-IN - Análise",
+        "titulo": "PAI-PJ - Análise dos dados",
         "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
       },
       {
@@ -232,7 +232,7 @@ var LINKS = [
   },
   {
     "titulo": "Administrativo",
-    "subtitulo": "Lista de Planilhas e Formulários",
+    "subtitulo": "Lista de Planilhas",
     "itens": [
       {
         "titulo": "Equipe",
