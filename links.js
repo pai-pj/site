@@ -1,6 +1,6 @@
 var LINKS = [
   {
-    "titulo": "NRBH",
+    "titulo": "Núcleos Regionais",
     "subtitulo": "Planilhas e Formulários",
     "itens":[
       {
@@ -8,7 +8,7 @@ var LINKS = [
         "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
       },
       {
-        "titulo":"Registro de Ações",
+        "titulo":"Registro de Ações - NRBH",
         "itens":[
           {
             "titulo":"Formulário",
@@ -20,6 +20,37 @@ var LINKS = [
           }
         ]
         
+      },
+
+      
+      {
+        "titulo":"Registro de Ações - Núcleos do Interior",
+        "itens":[
+          {
+            "titulo":"NR Barbacena",
+            "url":"https://docs.google.com/spreadsheets/d/1S-cvtyMeGjOgfVde4erKu8aFJ1dCbDuR8mN74YnV5Jc/edit#gid=0"
+          },
+          {
+            "titulo":"NR Alfenas",
+            "url":"https://docs.google.com/spreadsheets/d/1iQXd2uGxTyipHQJof92NK06K53mLdAzQcfqiWjIeUuI/edit#gid=0"
+          },
+          {
+            "titulo":"NR Governador Valadares",
+            "url":"https://docs.google.com/spreadsheets/d/1UKMvRb6CLiB9FJYLdjYvxw5k5Sa34B3GGr1wR7LjHrs/edit#gid=0"
+          },
+          {
+            "titulo":"NR Itaúna",
+            "url":"https://docs.google.com/spreadsheets/d/1H6HmNpP_KrmIivQfoHk1cIwAWiDFY_ONvVDrgDGTjXc/edit#gid=0"
+          },
+          {
+            "titulo":"NR Teófilo Otôni",
+            "url":"https://docs.google.com/spreadsheets/d/12bP5QUgXwYMxUyWti4Mp1Ln4SxTM6nUwypPRglQYPQs/edit#gid=0"
+          },
+          {
+            "titulo":"NR Juiz de Fora",
+            "url":"https://docs.google.com/spreadsheets/d/1rAU2iVKrlxhiQCm0eDMe-CX-azxctMTF0IvRiMffOZM/edit#gid=0"
+          }
+        ]
       },
 
 
@@ -68,35 +99,7 @@ var LINKS = [
         "titulo":"Registro de Ações - NS",
         "url":"https://docs.google.com/spreadsheets/d/1R47qI1CmEaUK2hp-SABQ5K_65VhcUQIkO9ifejUyvCs/edit#gid=1686231361"
       },
-      {
-        "titulo":"Registro de Ações - Núcleos Regionais",
-        "itens":[
-          {
-            "titulo":"NR Barbacena",
-            "url":"https://docs.google.com/spreadsheets/d/1S-cvtyMeGjOgfVde4erKu8aFJ1dCbDuR8mN74YnV5Jc/edit#gid=0"
-          },
-          {
-            "titulo":"NR Alfenas",
-            "url":"https://docs.google.com/spreadsheets/d/1iQXd2uGxTyipHQJof92NK06K53mLdAzQcfqiWjIeUuI/edit#gid=0"
-          },
-          {
-            "titulo":"NR Governador Valadares",
-            "url":"https://docs.google.com/spreadsheets/d/1UKMvRb6CLiB9FJYLdjYvxw5k5Sa34B3GGr1wR7LjHrs/edit#gid=0"
-          },
-          {
-            "titulo":"NR Itaúna",
-            "url":"https://docs.google.com/spreadsheets/d/1H6HmNpP_KrmIivQfoHk1cIwAWiDFY_ONvVDrgDGTjXc/edit#gid=0"
-          },
-          {
-            "titulo":"NR Teófilo Otôni",
-            "url":"https://docs.google.com/spreadsheets/d/12bP5QUgXwYMxUyWti4Mp1Ln4SxTM6nUwypPRglQYPQs/edit#gid=0"
-          },
-          {
-            "titulo":"NR Juiz de Fora",
-            "url":"https://docs.google.com/spreadsheets/d/1rAU2iVKrlxhiQCm0eDMe-CX-azxctMTF0IvRiMffOZM/edit#gid=0"
-          }
-        ]
-      }
+      
     ]
   },
   {
