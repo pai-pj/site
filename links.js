@@ -224,7 +224,7 @@ var LINKS = [
     "subtitulo": "Lista de Planilhas",
     "itens": [
       {
-        "titulo": "Entrada e Distribução",
+        "titulo": "Entrada e Distribuição",
         "url": "https://docs.google.com/spreadsheets/d/19IvDqWIbWzGhp4yITAq0SjxRnzMQ-bWQQt2XSQkCB7w/edit#gid=687444760"        
       },
       {
