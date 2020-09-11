@@ -4,7 +4,7 @@ var LINKS = [
     "subtitulo": "Planilhas e Formulários",
     "itens":[
       {
-        "titulo": "Plantão PAI-PJ - NRBH - Durante Pandemia COVID -19",
+        "titulo": "Escala PAI-PJ - NRBH - Durante Pandemia COVID -19",
         "url": "https://docs.google.com/spreadsheets/d/1OUGpQHP6MvbWSaLnAxuImEmY2OWSbS81eKHBNuB4OgA/edit#gid=1123041746"
       },
       
