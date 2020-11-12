@@ -238,6 +238,10 @@ var LINKS = [
       {
         "titulo": "Revista Responsabilidades - Dados",
         "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
+      },
+      {
+        "titulo": "Mutirão Barbacena 2020",
+        "url":"https://docs.google.com/spreadsheets/d/159OKdzMIbvhl5ep-g00YRjQ9QLN10INYPv3DOu-Y2cY/edit#gid=0"
       }
                 
     ]
