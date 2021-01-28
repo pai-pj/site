@@ -7,6 +7,10 @@ var LINKS = [
         "titulo": "Escala PAI-PJ - NRBH - Durante Pandemia COVID -19",
         "url": "https://docs.google.com/spreadsheets/d/1OUGpQHP6MvbWSaLnAxuImEmY2OWSbS81eKHBNuB4OgA/edit#gid=1123041746"
       },
+      /*{
+        "titulo": "Módulo de Consulta",
+        "url": "https://script.google.com/macros/s/AKfycbxsNYc38sqKVp5JqSeUrXgRYJhqmvVk4CbWZCGpQ1Ti5vLet6cFGuQW/exec"
+      },*/
       
       {
         "titulo":"PAI-PJ - IN",
