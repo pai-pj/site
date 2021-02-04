@@ -17,7 +17,7 @@ var LINKS = [
         "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
       },
       {
-        "titulo":"Registro de Ações - NRBH",
+        "titulo":"Registro de Ações",
         "itens":[
           {
             "titulo":"Formulário",
@@ -31,7 +31,7 @@ var LINKS = [
         
       },
 
-      
+      /*
       {
         "titulo":"Registro de Ações - Núcleos do Interior",
         "itens":[
@@ -59,8 +59,9 @@ var LINKS = [
             "titulo":"NR Juiz de Fora",
             "url":"https://docs.google.com/spreadsheets/d/1rAU2iVKrlxhiQCm0eDMe-CX-azxctMTF0IvRiMffOZM/edit#gid=0"
           }
+          
         ]
-      },
+      },*/
 
 
       {
