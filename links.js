@@ -63,6 +63,20 @@ var LINKS = [
         ]
       },*/
 
+      {
+        "titulo":"Entrada",
+        "itens":[
+          {
+            "titulo":"Formulário",
+            "url":"https://docs.google.com/forms/d/e/1FAIpQLSek3bwuAAFCv7_aBTcDOPDKwlcJIDnneuwPGwl5y-szIwn9dw/viewform?usp=sf_link"
+          },
+          {
+            "titulo":"Planilha",
+            "url":"https://docs.google.com/spreadsheets/d/13rDDwDjlTq3SFWuOX3JiaINy7dsapxlVTcRD6rJdAPg/edit#gid=1496529896"
+          }
+        ]
+        
+      },
 
       {
         "titulo": "Desligamento",
