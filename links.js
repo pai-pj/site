@@ -247,6 +247,11 @@ var LINKS = [
         "url": "https://docs.google.com/spreadsheets/d/19IvDqWIbWzGhp4yITAq0SjxRnzMQ-bWQQt2XSQkCB7w/edit#gid=687444760"        
       },
       {
+        "titulo": "Quantidade de Casos",
+        "url": "https://docs.google.com/spreadsheets/d/1TLrkIIkYZOOhynGaA4U0qcn6KVaBDxstdv_IcVI2sRo/edit#gid=0"        
+      },
+      
+      {
         "titulo": "Análise dos dados",
         "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
       },
