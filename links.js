@@ -7,14 +7,25 @@ var LINKS = [
         "titulo": "Escala PAI-PJ - NRBH - Durante Pandemia COVID -19",
         "url": "https://docs.google.com/spreadsheets/d/1OUGpQHP6MvbWSaLnAxuImEmY2OWSbS81eKHBNuB4OgA/edit#gid=1123041746"
       },
-      /*{
-        "titulo": "Módulo de Consulta",
-        "url": "https://script.google.com/macros/s/AKfycbxsNYc38sqKVp5JqSeUrXgRYJhqmvVk4CbWZCGpQ1Ti5vLet6cFGuQW/exec"
-      },*/
-      
       {
-        "titulo":"PAI-PJ - IN",
-        "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
+        "titulo":"Equipe PAI-PJ",
+        "url":"https://docs.google.com/spreadsheets/d/1f0G8IDzmoLyAgFhoqli9qa8QsBSMJjWsAeVslaAOhBQ/edit#gid=0"
+      },
+      {
+        "titulo":"Pacientes (PAI-PJ-IN)",
+        "itens":[
+          {
+            "titulo":"Dados Psicossociais",
+            "url":"https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
+           
+          },
+          {
+            "titulo":"Dados Processuais",
+            "url":"https://docs.google.com/spreadsheets/d/1UpTNPsWWvhGdP56wRdhmzgSrqdj9-bbHKpOdCtU0i1A/edit#gid=855660271"
+            
+          }
+        ]
+        
       },
       {
         "titulo":"Registro de Ações",
@@ -30,38 +41,7 @@ var LINKS = [
         ]
         
       },
-
-      /*
-      {
-        "titulo":"Registro de Ações - Núcleos do Interior",
-        "itens":[
-          {
-            "titulo":"NR Barbacena",
-            "url":"https://docs.google.com/spreadsheets/d/1S-cvtyMeGjOgfVde4erKu8aFJ1dCbDuR8mN74YnV5Jc/edit#gid=0"
-          },
-          {
-            "titulo":"NR Alfenas",
-            "url":"https://docs.google.com/spreadsheets/d/1iQXd2uGxTyipHQJof92NK06K53mLdAzQcfqiWjIeUuI/edit#gid=0"
-          },
-          {
-            "titulo":"NR Governador Valadares",
-            "url":"https://docs.google.com/spreadsheets/d/1UKMvRb6CLiB9FJYLdjYvxw5k5Sa34B3GGr1wR7LjHrs/edit#gid=0"
-          },
-          {
-            "titulo":"NR Itaúna",
-            "url":"https://docs.google.com/spreadsheets/d/1H6HmNpP_KrmIivQfoHk1cIwAWiDFY_ONvVDrgDGTjXc/edit#gid=0"
-          },
-          {
-            "titulo":"NR Teófilo Otôni",
-            "url":"https://docs.google.com/spreadsheets/d/12bP5QUgXwYMxUyWti4Mp1Ln4SxTM6nUwypPRglQYPQs/edit#gid=0"
-          },
-          {
-            "titulo":"NR Juiz de Fora",
-            "url":"https://docs.google.com/spreadsheets/d/1rAU2iVKrlxhiQCm0eDMe-CX-azxctMTF0IvRiMffOZM/edit#gid=0"
-          }
-          
-        ]
-      },*/
+      
 
       {
         "titulo":"Entrada",
@@ -242,23 +222,38 @@ var LINKS = [
     "titulo": "Coordenação",
     "subtitulo": "Lista de Planilhas",
     "itens": [
+
       {
-        "titulo": "Entrada e Distribuição",
+        "titulo":"Entrada e Distribuição",
+        "itens":[
+      {
+        "titulo": "Entrada",
+        "url": "https://docs.google.com/spreadsheets/d/17s54iCrxGuUQMclkhik9595siG52RqKlXS2jIV_osbE/edit#gid=1279199042"        
+      },
+      {
+        "titulo": "Distribuição",
         "url": "https://docs.google.com/spreadsheets/d/19IvDqWIbWzGhp4yITAq0SjxRnzMQ-bWQQt2XSQkCB7w/edit#gid=687444760"        
       },
       {
         "titulo": "Quantidade de Casos",
         "url": "https://docs.google.com/spreadsheets/d/1TLrkIIkYZOOhynGaA4U0qcn6KVaBDxstdv_IcVI2sRo/edit#gid=0"        
       },
+      {
+        "titulo": "Não listados",
+        "url": "https://docs.google.com/spreadsheets/d/1uMiz5gA3TCBkKsQILV1k6XUdgvWrLeQJTlVYPCayp4U/edit#gid=0"        
+      }
+     
+    ]
+  },
+
+
+
       
       {
         "titulo": "Análise dos dados",
         "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
       },
-      {
-        "titulo": "Porta de Entrada - Geral",
-        "url":"https://docs.google.com/spreadsheets/d/1Ieh33djG8OpzuAo7JVf-wEj1OLSP30LHQ9uh9z_SApE/edit#gid=1591668588"
-      },
+      
       {
         "titulo": "Revista Responsabilidades - Dados",
         "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
