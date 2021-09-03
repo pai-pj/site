@@ -111,6 +111,10 @@ var LINKS = [
     "subtitulo": "Links e sites com conteúdo relevante",
     "itens":[
       {
+        "titulo":"Curso de Formação",
+        "url":"https://docs.google.com/spreadsheets/d/1rkPTzHODBrhNGwCN7QfYxj9ZhVHmAxms7FYj_OLIyL8/edit#gid=0"
+      },
+      {
         "titulo":"Revista Responsabilidades",
         "url":"https://bd.tjmg.jus.br/jspui/handle/tjmg/577/browse?type=dateissued&submit_browse=Exibir+todos+os+itens"
       },
