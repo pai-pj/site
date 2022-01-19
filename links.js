@@ -108,6 +108,10 @@ var LINKS = [
     "subtitulo": "Links e sites com conteúdo relevante",
     "itens":[
       {
+        "titulo":"Sessões Clínicas e Reuniões",
+        "url":" https://docs.google.com/spreadsheets/d/1jtBnisgFAiF0_2ZqEjSQJxh-AgrZ4KVtMwdtqRz5PSM/edit"
+      },
+           {
         "titulo":"Curso de Formação",
         "url":"https://docs.google.com/spreadsheets/d/1rkPTzHODBrhNGwCN7QfYxj9ZhVHmAxms7FYj_OLIyL8/edit#gid=0"
       },
@@ -260,7 +264,7 @@ var LINKS = [
         "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
       },
       {
-        "titulo": "Mutirão Barbacena 2020",
+        "titulo": "Mutirões Barbacena",
         "url":"https://docs.google.com/spreadsheets/d/159OKdzMIbvhl5ep-g00YRjQ9QLN10INYPv3DOu-Y2cY/edit#gid=0"
       }
                 
