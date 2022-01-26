@@ -39,6 +39,19 @@ var LINKS = [
         
       },
       
+      {
+        "titulo": "Acolhimento",
+        "itens": [
+          {
+            "titulo": "Formulário",
+            "url":"https://docs.google.com/forms/d/e/1FAIpQLSdE3VXPcSVACC0Qg2ABxAVghc-Y9zCzIB6AsO1ayPsQO1B4BA/viewform?usp=sf_link"
+          },
+          {
+            "titulo": "Planilha",
+            "url": "https://docs.google.com/spreadsheets/d/1mR5sQPCiZJH0nyspY9_bwthHQAHHhYHWV94b-aF6Ug4/edit#gid=1554718222"
+          }
+        ]
+      },
 
       {
         "titulo":"Entrada",
@@ -67,10 +80,9 @@ var LINKS = [
             "url": "https://docs.google.com/spreadsheets/d/1hP4iQ4l3S21m6ruVUqh9EPG5BPuMA3h6ppJNFN_XVKs/edit#gid=1093202006"
           }
         ]
-      }
+      },
 
-      ,
-
+      /*
       {
         "titulo": "Atividades",
         "itens": [
@@ -82,9 +94,11 @@ var LINKS = [
             "titulo": "Planilha",
             "url": "https://docs.google.com/spreadsheets/d/1Hwv7pYhjQCi_MyOhTo0lOn6xzjZ74ZoEYmqNdpPGHs4/edit#gid=376414457"
           }
+          
+
         ]
       }
-
+      */
       
     ]
   },
@@ -93,7 +107,7 @@ var LINKS = [
     "subtitulo": "Planilhas acessadas pelo Núcleo Supervisor",
     "itens":[
       {
-        "titulo":"Monitoramento de Equipes",
+        "titulo":"Supervisões",
         "url":"https://docs.google.com/spreadsheets/d/1-0GLHgwBF7u3do6mvPCFNHRJ1842guvFtJyvW4LHJCk/edit#gid=1755192778"
       },
       {
