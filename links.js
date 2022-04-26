@@ -254,6 +254,10 @@ var LINKS = [
         "url": "https://docs.google.com/spreadsheets/d/19IvDqWIbWzGhp4yITAq0SjxRnzMQ-bWQQt2XSQkCB7w/edit#gid=687444760"        
       },
       {
+        "titulo": "Consulta",
+        "url": "https://docs.google.com/spreadsheets/d/12rqh3ucErLydtY2fBgK502ZaqEF50EdZqUXSxY0g5pg/edit#gid=781383210"
+      },
+      {
         "titulo": "Quantidade de Casos",
         "url": "https://docs.google.com/spreadsheets/d/1TLrkIIkYZOOhynGaA4U0qcn6KVaBDxstdv_IcVI2sRo/edit#gid=0"        
       },
