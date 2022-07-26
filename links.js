@@ -103,7 +103,7 @@ var LINKS = [
     ]
   },
   {
-    "titulo": "NS",
+    "titulo": "Núcleo Supervisor",
     "subtitulo": "Planilhas acessadas pelo Núcleo Supervisor",
     "itens":[
       {
@@ -113,6 +113,14 @@ var LINKS = [
       {
         "titulo":"Registro de Ações - NS",
         "url":"https://docs.google.com/spreadsheets/d/1R47qI1CmEaUK2hp-SABQ5K_65VhcUQIkO9ifejUyvCs/edit#gid=1686231361"
+      },
+      {
+        "titulo":"Registro de Ações - F",
+        "url":"https://docs.google.com/spreadsheets/d/1rjTVFjoVv2ZTcMo-xZXCjWPkcXy9U29A_zkuKERTjSM/edit?usp=sharing"
+      },
+      {
+         "titulo":"Registro de Ações - L",
+         "url":"https://docs.google.com/spreadsheets/d/10L2DUCbz3vhdH9W1t9jxUEHspUD8jcXSXDw6TK8-qus/edit?usp=sharing"
       },
       
     ]
@@ -237,14 +245,33 @@ var LINKS = [
 
     ]
   },
+
   {
     "titulo": "Coordenação",
     "subtitulo": "Lista de Planilhas",
-    "itens": [
-
+    "itens": 
+    [ 
       {
-        "titulo":"Entrada e Distribuição",
-        "itens":[
+        "titulo": "Análise dos dados",
+        "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
+      },
+      
+      {
+        "titulo": "Revista Responsabilidades - Dados",
+        "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
+      },
+      {
+        "titulo": "Mutirões Barbacena",
+        "url":"https://docs.google.com/spreadsheets/d/159OKdzMIbvhl5ep-g00YRjQ9QLN10INYPv3DOu-Y2cY/edit#gid=0"
+      }         
+    ]
+  },
+
+  {
+    "titulo": "Secretaria de Acolhimento",
+    "subtitulo": "Lista de Planilhas",
+    "itens": 
+    [           
       {
         "titulo": "Entrada",
         "url": "https://docs.google.com/spreadsheets/d/17s54iCrxGuUQMclkhik9595siG52RqKlXS2jIV_osbE/edit#gid=1279199042"        
@@ -264,40 +291,22 @@ var LINKS = [
       {
         "titulo": "Não listados",
         "url": "https://docs.google.com/spreadsheets/d/1uMiz5gA3TCBkKsQILV1k6XUdgvWrLeQJTlVYPCayp4U/edit#gid=0"        
-      }
-     
-    ]
+      } 
+    ] 
   },
 
 
 
-      
-      {
-        "titulo": "Análise dos dados",
-        "url":"https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
-      },
-      
-      {
-        "titulo": "Revista Responsabilidades - Dados",
-        "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
-      },
-      {
-        "titulo": "Mutirões Barbacena",
-        "url":"https://docs.google.com/spreadsheets/d/159OKdzMIbvhl5ep-g00YRjQ9QLN10INYPv3DOu-Y2cY/edit#gid=0"
-      }
-                
-    ]
-  },
+
   {
     "titulo": "Administrativo",
     "subtitulo": "Lista de Planilhas",
-    "itens": [
-       
+    "itens": 
+    [
       {
-        "titulo": "Escala de trabalho - NRBH",
-        "url": "https://docs.google.com/spreadsheets/d/1OUGpQHP6MvbWSaLnAxuImEmY2OWSbS81eKHBNuB4OgA/edit#gid=1123041746"
-      },
-      
+      "titulo": "Escala de trabalho - NRBH",
+      "url": "https://docs.google.com/spreadsheets/d/1OUGpQHP6MvbWSaLnAxuImEmY2OWSbS81eKHBNuB4OgA/edit#gid=1123041746"
+      },      
       {
         "titulo":"Solicitação de Transporte",
         "itens":[
