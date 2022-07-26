@@ -115,14 +115,9 @@ var LINKS = [
         "url":"https://docs.google.com/spreadsheets/d/1R47qI1CmEaUK2hp-SABQ5K_65VhcUQIkO9ifejUyvCs/edit#gid=1686231361"
       },
       {
-        "titulo":"Registro de Ações - F",
+        "titulo":"Registro de Ações - Supervisão Clínica",
         "url":"https://docs.google.com/spreadsheets/d/1rjTVFjoVv2ZTcMo-xZXCjWPkcXy9U29A_zkuKERTjSM/edit?usp=sharing"
-      },
-      {
-         "titulo":"Registro de Ações - L",
-         "url":"https://docs.google.com/spreadsheets/d/10L2DUCbz3vhdH9W1t9jxUEHspUD8jcXSXDw6TK8-qus/edit?usp=sharing"
-      },
-      
+      },         
     ]
   },
   {
