@@ -256,6 +256,15 @@ var LINKS = [
         "url":"https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
       },
       {
+        "titulo": "Revista Responsabilidades - Arquivos",
+        "url": "https://drive.google.com/drive/folders/16OlKtoGTuWoBb4wV-tG_CKzrlc5saob3?usp=sharing"
+      },
+      {
+        "titulo": "Relatórios",
+        "url": "https://drive.google.com/drive/folders/1-UGO2xkI-Zb06imWECus1c-aNquZ8riN?usp=sharing"
+      },
+     
+      {
         "titulo": "Mutirões Barbacena",
         "url":"https://docs.google.com/spreadsheets/d/159OKdzMIbvhl5ep-g00YRjQ9QLN10INYPv3DOu-Y2cY/edit#gid=0"
       }         
