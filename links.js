@@ -142,7 +142,7 @@ var LINKS = [
         "invisivel": true
       },
       {
-        "titulo": "Vídeos no Youtube",
+        "titulo": "Vídeos",
         "itens": [
           {
             "titulo":"Em Nome da Razão - 1979",
