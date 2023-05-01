@@ -28,13 +28,15 @@ var LINKS = [
         "titulo": "Registro de Ações",
         "itens": [
           {
-            "titulo": "NOVO! Registros e consulta",
+            "titulo": "Registros e consulta",
               "url": "https://paipjin.rj.r.appspot.com"
           },
+          /*
           {            
             "titulo": "Formulário",
             "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTJMtKWW9IkOChlK8Tg1lHYnTwQqcqfeNpKbw1UZX0NwbHIQ/viewform?usp=sf_link"
           },
+          */
           {
             "titulo": "Planilha",
             "url": "https://docs.google.com/spreadsheets/d/1ruqv3khE5tZjPZPa90XsRe7dGNDtNE7-xhIcgR-PXFA/edit#gid=0"
