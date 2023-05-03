@@ -29,7 +29,8 @@ var LINKS = [
         "itens": [
           {
             "titulo": "Registros e consulta",
-              "url": "https://paipjin.rj.r.appspot.com"
+            // "url": "https://paipjin.rj.r.appspot.com"
+            "url": "https://paipjin.pythonanywhere.com/"
           },
           /*
           {            
@@ -42,7 +43,6 @@ var LINKS = [
             "url": "https://docs.google.com/spreadsheets/d/1ruqv3khE5tZjPZPa90XsRe7dGNDtNE7-xhIcgR-PXFA/edit#gid=0"
           }          
         ]
-
       },
 
       {
