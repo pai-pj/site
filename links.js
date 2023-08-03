@@ -3,7 +3,6 @@ var LINKS = [
     "titulo": "Núcleos Regionais",
     "subtitulo": "Planilhas e Formulários",
     "itens": [
-
       {
         "titulo": "Equipe PAI-PJ",
         "url": "https://docs.google.com/spreadsheets/d/1f0G8IDzmoLyAgFhoqli9qa8QsBSMJjWsAeVslaAOhBQ/edit#gid=0"
@@ -144,7 +143,7 @@ var LINKS = [
       },
       {
         "titulo": "Revista Responsabilidades",
-        "url": "https://bd.tjmg.jus.br/jspui/handle/tjmg/577/browse?type=dateissued&submit_browse=Exibir+todos+os+itens"
+        "url": "https://bd.tjmg.jus.br/collections/9293d09d-c731-4db5-9928-c5272cc5f004"
       },
       {
         "titulo": "Canal do Youtube",
