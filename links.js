@@ -18,31 +18,14 @@ var LINKS = [
           {
             "titulo": "Dados Processuais",
             "url": "https://docs.google.com/spreadsheets/d/1UpTNPsWWvhGdP56wRdhmzgSrqdj9-bbHKpOdCtU0i1A/edit#gid=855660271"
-
           }
         ]
-
       },
       {
         "titulo": "Registro de Ações",
-        "itens": [
-          {
-            "titulo": "Registros e consulta",
-            // "url": "https://paipjin.rj.r.appspot.com"
-            "url": "https://paipjin.pythonanywhere.com/"
-          },
-          /*
-          {            
-            "titulo": "Formulário",
-            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTJMtKWW9IkOChlK8Tg1lHYnTwQqcqfeNpKbw1UZX0NwbHIQ/viewform?usp=sf_link"
-          },          
-          {
-            "titulo": "Planilha",
-            "url": "https://docs.google.com/spreadsheets/d/1ruqv3khE5tZjPZPa90XsRe7dGNDtNE7-xhIcgR-PXFA/edit#gid=0"
-          }  
-          */        
-        ]
-      },
+        "url": "https://paipjin.pythonanywhere.com/"
+      },     
+            
       {
         "titulo": "Censo pacientes sistema prisional",
         "url": "https://docs.google.com/spreadsheets/d/1PpJjpmaiLAYcRtk-lPEeTGNjfkaU30voCgltZMD7X2o/edit#gid=52114237"
@@ -127,6 +110,23 @@ var LINKS = [
         "titulo": "Registro de Ações - Supervisão Clínica",
         "url": "https://docs.google.com/spreadsheets/d/1rjTVFjoVv2ZTcMo-xZXCjWPkcXy9U29A_zkuKERTjSM/edit?usp=sharing"
       },
+      {
+        "titulo": "Relatório GMF",
+        "itens": [
+          {
+            "titulo": "Formulário",
+            "url": "https://forms.gle/9nRgTQPWbJ6fXNBS9"
+          },
+          {
+            "titulo": "Planilha",
+            "url": "https://docs.google.com/spreadsheets/d/1lXeNWRreNSHlYS0KSO9ieUomRiFT76ui9TcmcpmYX6o/edit#gid=0"
+          }
+        ]
+      },
+      {
+        "titulo": "Perícia",
+        "url": "https://docs.google.com/spreadsheets/d/1bKKETh9fZR7kI-O84hU8jev8Yan3ikrp/edit#gid=2097425717"
+      }
     ]
   },
   {
