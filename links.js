@@ -96,32 +96,19 @@ var LINKS = [
   },
   {
     "titulo": "Núcleo Supervisor",
-    "subtitulo": "Planilhas acessadas pelo Núcleo Supervisor",
+    "subtitulo": "Lista de planilhas",
     "itens": [
       {
         "titulo": "Supervisões",
         "url": "https://docs.google.com/spreadsheets/d/1-0GLHgwBF7u3do6mvPCFNHRJ1842guvFtJyvW4LHJCk/edit#gid=1755192778"
-      },
-      {
-        "titulo": "Registro de Ações - NS",
-        "url": "https://docs.google.com/spreadsheets/d/1R47qI1CmEaUK2hp-SABQ5K_65VhcUQIkO9ifejUyvCs/edit#gid=1686231361"
-      },
+      },     
       {
         "titulo": "Registro de Ações - Supervisão Clínica",
         "url": "https://docs.google.com/spreadsheets/d/1rjTVFjoVv2ZTcMo-xZXCjWPkcXy9U29A_zkuKERTjSM/edit?usp=sharing"
       },
       {
-        "titulo": "Relatório GMF",
-        "itens": [
-          {
-            "titulo": "Formulário",
-            "url": "https://forms.gle/9nRgTQPWbJ6fXNBS9"
-          },
-          {
-            "titulo": "Planilha",
-            "url": "https://docs.google.com/spreadsheets/d/1lXeNWRreNSHlYS0KSO9ieUomRiFT76ui9TcmcpmYX6o/edit#gid=0"
-          }
-        ]
+       "titulo": "Relatório GMF",
+       "url": "https://docs.google.com/spreadsheets/d/1lXeNWRreNSHlYS0KSO9ieUomRiFT76ui9TcmcpmYX6o/edit#gid=0"       
       },
       {
         "titulo": "Perícia",
@@ -287,7 +274,6 @@ var LINKS = [
           "titulo": "Análise dos dados",
           "url": "https://docs.google.com/spreadsheets/d/1FdLNhJZv3nvH649yzEv5xaj2XSzJz6Uc4Z7EnaNx6F4/edit#gid=27897097"
         },
-
         {
           "titulo": "Revista Responsabilidades - Dados",
           "url": "https://docs.google.com/spreadsheets/d/1zKqG1djEGikFp5_Lzo2aPEys-LCLDIrBO2lWWAUuzdY/edit#gid=0"
@@ -300,10 +286,22 @@ var LINKS = [
           "titulo": "Relatórios",
           "url": "https://drive.google.com/drive/folders/1-UGO2xkI-Zb06imWECus1c-aNquZ8riN?usp=sharing"
         },
-
         {
           "titulo": "Mutirões Barbacena",
           "url": "https://docs.google.com/spreadsheets/d/159OKdzMIbvhl5ep-g00YRjQ9QLN10INYPv3DOu-Y2cY/edit#gid=0"
+        },
+        {
+          "titulo": "Contratação de Estagiários",
+          "itens": [
+             {
+               "titulo": "Graduação",
+               "url": "https://docs.google.com/spreadsheets/d/1VkiUJGrC30dgoqhr71oZy4UfoYQZRC7ovI8tjFm-0kM/edit#gid=0"
+             },
+             {
+               "titulo": "Pós_graduação",
+               "url": "https://docs.google.com/spreadsheets/d/1t4pb97DdWd8iigawZdRn1k3x8UGL1XGmzkOkdpSyvJ0/edit#gid=0"
+             }
+          ]
         }
       ]
   },
