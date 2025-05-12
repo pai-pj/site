@@ -1,7 +1,7 @@
 var LINKS = [
   {
     "titulo": "Núcleos Regionais",
-    "subtitulo": "Planilhas e Formulários",
+    "subtitulo": "",
     "itens": [
       {
         "titulo": "Equipe PAI-PJ",
@@ -72,7 +72,7 @@ var LINKS = [
             "url": "https://docs.google.com/spreadsheets/d/1hP4iQ4l3S21m6ruVUqh9EPG5BPuMA3h6ppJNFN_XVKs/edit#gid=1093202006"
           }
         ]
-      },
+      }
 
       /*
       {
@@ -96,7 +96,7 @@ var LINKS = [
   },
   {
     "titulo": "Núcleo Supervisor",
-    "subtitulo": "Lista de planilhas",
+   "subtitulo": "",
     "itens": [
       {
         "titulo": "Supervisões",
@@ -113,12 +113,16 @@ var LINKS = [
       {
         "titulo": "Perícia",
         "url": "https://docs.google.com/spreadsheets/d/1bKKETh9fZR7kI-O84hU8jev8Yan3ikrp/edit#gid=2097425717"
+      },
+      {
+        "titulo": "Pesquisa Reincidência",
+        "url": "https://docs.google.com/spreadsheets/d/1L3-ebZhxlmZNql1uVrm4itysiXhm54Y1QPnQi4MBjxo/edit?gid=0#gid=0"
       }
     ]
   },
   {
     "titulo": "Formação",
-    "subtitulo": "Links e sites com conteúdo relevante",
+    "subtitulo": "",
     "itens": [
       {
         "titulo": "Sessões Clínicas e Reuniões",
@@ -140,6 +144,18 @@ var LINKS = [
       {
         "titulo": "Vídeos",
         "itens": [
+          {
+                "titulo": "PAI-PJ 25 anos de história - TJMG Oficial",
+                "url": "https://youtu.be/bhc9EzKbPuk?si=3LiEM_LmbkNTSdSL"
+              },
+              {
+                "titulo": "Solenidade comemorativa do jubileu de Prata do PAI-PJ - TJMG Oficial",
+                "url": "https://www.youtube.com/live/-_XzVviy-hE?si=GdwJhFaLqcYLFHeo"
+              },
+              {
+                "titulo": "Justiça em questão 789 - TJMG Oficial",
+                "url": "https://youtu.be/tjY3HoaF-80?si=7GI5op8UFCrt_JM9"
+              },
           {
             "titulo":"Em Nome da Razão - 1979",
             "url":"https://youtu.be/cvjyjwI4G9c"
@@ -267,7 +283,7 @@ var LINKS = [
 
   {
     "titulo": "Coordenação",
-    "subtitulo": "Lista de Planilhas",
+    "subtitulo": "",
     "itens":
       [
         {
@@ -308,7 +324,7 @@ var LINKS = [
 
   {
     "titulo": "Secretaria de Acolhimento",
-    "subtitulo": "Lista de Planilhas",
+    "subtitulo": "",
     "itens":
       [
         {
@@ -339,7 +355,7 @@ var LINKS = [
 
   {
     "titulo": "Administrativo",
-    "subtitulo": "Lista de Planilhas",
+    "subtitulo": "",
     "itens":
       [
         {
