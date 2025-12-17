@@ -296,7 +296,7 @@ var LINKS = [
         },
         {
           "titulo": "Revista Responsabilidades - Arquivos",
-          "url": "https://drive.google.com/drive/folders/16OlKtoGTuWoBb4wV-tG_CKzrlc5saob3?usp=sharing"
+          "url": "https://drive.google.com/drive/folders/1Lx5YChvnHfOA1mTjCadtwlRD02iiKq--?usp=drive_link"
         },
         {
           "titulo": "Relatórios",
