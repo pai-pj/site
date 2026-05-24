@@ -16,13 +16,13 @@ var LINKS = [
 
           },
           {
-            "titulo": "Dados Processuais",
+            "titulo": "Dados Processuais - APENAS CULSULTA",
             "url": "https://docs.google.com/spreadsheets/d/1UpTNPsWWvhGdP56wRdhmzgSrqdj9-bbHKpOdCtU0i1A/edit#gid=855660271"
           }
         ]
       },
       {
-        "titulo": "Registro de Ações",
+        "titulo": "Registro de Ações e Processos",
         "url": "https://paipjin.pythonanywhere.com/"
       },     
             
