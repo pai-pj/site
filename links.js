@@ -8,18 +8,8 @@ var LINKS = [
         "url": "https://docs.google.com/spreadsheets/d/1f0G8IDzmoLyAgFhoqli9qa8QsBSMJjWsAeVslaAOhBQ/edit#gid=0"
       },
       {
-        "titulo": "Pacientes",
-        "itens": [
-          {
-            "titulo": "Dados Psicossociais",
-            "url": "https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
-
-          },
-          {
-            "titulo": "Dados Processuais - APENAS CULSULTA",
-            "url": "https://docs.google.com/spreadsheets/d/1UpTNPsWWvhGdP56wRdhmzgSrqdj9-bbHKpOdCtU0i1A/edit#gid=855660271"
-          }
-        ]
+        "titulo": "Pacientes - Dados Psicossociais",
+        "url": "https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
       },
       {
         "titulo": "Registro de Ações e Processos",
@@ -126,7 +116,7 @@ var LINKS = [
     "itens": [
       {
         "titulo": "Sessões Clínicas e Reuniões",
-        "url": " https://docs.google.com/spreadsheets/d/1jtBnisgFAiF0_2ZqEjSQJxh-AgrZ4KVtMwdtqRz5PSM/edit"
+        "url": "https://docs.google.com/spreadsheets/d/1jtBnisgFAiF0_2ZqEjSQJxh-AgrZ4KVtMwdtqRz5PSM/edit"
       },
       {
         "titulo": "Curso de Formação",
