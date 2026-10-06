@@ -8,6 +8,10 @@ var LINKS = [
         "url": "https://docs.google.com/spreadsheets/d/1f0G8IDzmoLyAgFhoqli9qa8QsBSMJjWsAeVslaAOhBQ/edit#gid=0"
       },
       {
+        "titulo": "Abrangência dos Núcleos Regionais",
+        "url": "https://docs.google.com/document/d/13Jtc7_hr9WEgmAuj14bNK4iK6DM6sBI9UvXeERG7aRY/edit?tab=t.0"
+      },
+      {
         "titulo": "Pacientes - Dados Psicossociais",
         "url": "https://docs.google.com/spreadsheets/d/1IY8d-9iTsIqBBsjWNHyuZ_S8rJ7lAG-V5zl2d1lxetw/edit#gid=47917158"
       },
